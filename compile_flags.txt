@@ -1,0 +1,7 @@
+-xc
+-Wall
+-Wextra
+-Werror
+-g
+-std=c23
+-Iinclude
